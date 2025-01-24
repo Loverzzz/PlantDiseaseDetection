@@ -15,6 +15,7 @@ Proyek ini adalah sistem klasifikasi gambar berbasis Deep Learning menggunakan T
    - Mengunduh dan mempersiapkan dataset dari Kaggle.
    - Menampilkan informasi tentang dataset, termasuk jumlah gambar dan resolusi unik.
    - Preprocessing data dengan augmentasi gambar.
+   - Dataset : https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 2. **Modeling**
    - Membangun model CNN menggunakan TensorFlow.
